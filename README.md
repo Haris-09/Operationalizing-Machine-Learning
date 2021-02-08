@@ -94,7 +94,8 @@ Above all explained steps can be published as a pipeline by using the Jupyter No
 ![Alt text](images/Pipeline-RestEndpoint.PNG?raw=true "Pipeline-RestEndpoint")
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+![Alt text](images/Screen Cast.MP4?raw=true "Screen Cast")
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
