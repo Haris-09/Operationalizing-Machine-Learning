@@ -98,4 +98,5 @@ Above all explained steps can be published as a pipeline by using the Jupyter No
 https://youtu.be/ImEkwWRtr30
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+We can increase AutoML Run time duration which allows testing of more number of models. We also do some preprocessing to get better results like outlier detection, data cleaning and future engineering.
