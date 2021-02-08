@@ -95,7 +95,7 @@ Above all explained steps can be published as a pipeline by using the Jupyter No
 
 ## Screen Recording
 
-![Alt text](images/Screen Cast.MP4?raw=true "Screen Cast")
+https://youtu.be/ImEkwWRtr30
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
