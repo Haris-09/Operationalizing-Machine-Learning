@@ -1,7 +1,7 @@
 
 
 
-# Your Project Title Here
+# Operationalizing Machine Learning
 
 This is the second project of Machine Learning Engineer with Microsoft Azure Nanodegree. In this project we used the bankmarketing dataset to predict wheter the customer will subscribe to fixed-term deposit or not. Which means this is a Binary Classification problem.
 
@@ -17,9 +17,9 @@ In this project we create, publish and consume the pipeline. The project starts 
 
 First we upload and register the bankmarketing dataset in the AzureML Studio. the screenshots shows the detials of the bankmarketing dataset 
 
-![Alt text](images/Dataset_1.png?raw=true "Dataset Detail")
+![Alt text](images/Dataset_1.PNG?raw=true "Dataset Detail")
 
-![Alt text](images/Dataset_2.png?raw=true "Dataset Explore")
+![Alt text](images/Dataset_2.PNG?raw=true "Dataset Explore")
 
 #2-AutoML Experiment
 
