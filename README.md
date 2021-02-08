@@ -79,7 +79,19 @@ To consume model endpoint first we edit endpoint.py and replace URI and Key with
 
 ![Alt text](images/Endpoint-py-result.PNG?raw=true "endpoint.py result")
 
+### 7-Create, Publish and Consume Pipeline
 
+Above all explained steps can be published as a pipeline by using the Jupyter Notebook. After running all the cells we can see that the pipeline is created using AutoML module and endpoint is also available.
+
+![Alt text](images/Pipeline-Run-Completed.PNG?raw=true "Pipeline-Run-Completed")
+
+![Alt text](images/Pipeline-Runs.PNG?raw=true "Pipeline-Runs")
+
+![Alt text](images/Pipeline-Graph.PNG?raw=true "Pipeline-Graph")
+
+![Alt text](images/Pipeline-endpoints.PNG?raw=true "Pipeline-endpoints")
+
+![Alt text](images/Pipeline-RestEndpoint.PNG?raw=true "Pipeline-RestEndpoint")
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
