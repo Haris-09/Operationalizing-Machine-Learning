@@ -67,11 +67,19 @@ To enable swagger documentation and to see what the request looks like. we first
 
 ![Alt text](images/Swagger-running.PNG?raw=true "Swagger-running")
 
-![Alt text](images/running-serve.PNG?raw=true "Serve.py Running")
+![Alt text](images/running-serve-py.PNG?raw=true "Serve.py Running")
 
 ![Alt text](images/Swagger-localhost8000.PNG?raw=true "Swagger documentation")
 
 ![Alt text](images/Swagger-RunMLService.PNG?raw=true "Swagger Post Request")
+
+### 6-Consume Model Endpoint
+
+To consume model endpoint first we edit endpoint.py and replace URI and Key with the one that are provided in the consume section of endpoint in AzureML Studio. then we ran endpoint.py in the git bash and it shows the result as expected.
+
+![Alt text](images/Endpoint-py-result.PNG?raw=true "endpoint.py result")
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
