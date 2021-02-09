@@ -87,6 +87,10 @@ Above all explained steps can be published as a pipeline by using the Jupyter No
 
 ![Alt text](images/Pipeline-Runs.PNG?raw=true "Pipeline-Runs")
 
+![Alt text](images/Pipeline-Runs-Completed.PNG?raw=true "Pipeline-Runs-Completed")
+
+![Alt text](images/Pipeline-ExperimentRun-Completed.PNG?raw=true "Pipeline-ExperimentRun-Completed")
+
 ![Alt text](images/Pipeline-Graph.PNG?raw=true "Pipeline-Graph")
 
 ![Alt text](images/Pipeline-endpoints.PNG?raw=true "Pipeline-endpoints")
